@@ -1,3 +1,3 @@
 #!bash/bin
-echo "hello"
+echo "how are you"
 echo "hi"
