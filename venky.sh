@@ -1,8 +1,7 @@
 #! bash/bin
 echo "how are you"
 echo "hi"
-echo "to much"
-echo "prathik is too good"
-echo "too"
-echo "hhhh"
-echo "thhh"
+x=10
+y=20
+echo $(($x+$y))
+
