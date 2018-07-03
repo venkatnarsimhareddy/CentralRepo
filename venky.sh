@@ -5,7 +5,7 @@ x=10
 y=20
 echo $(($x+$y))
 echo "this is my second successful commit"
-echo "this is venkat commit"
+
 
 
 
